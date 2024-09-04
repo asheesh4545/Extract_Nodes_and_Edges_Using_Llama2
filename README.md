@@ -51,4 +51,3 @@ python medical_kg_extractor.py
 
 
 
-1. Clone this repository:
