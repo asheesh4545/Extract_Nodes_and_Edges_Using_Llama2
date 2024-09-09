@@ -32,8 +32,8 @@ This repository contains two Python scripts for extracting knowledge graphs from
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/asheesh4545/Extract_Nodes_and_Edges_Using_Llama2.git
-cd Extract_Nodes_and_Edges_Using_Llama2
+- git clone https://github.com/asheesh4545/Extract_Nodes_and_Edges_Using_Llama2.git
+- cd Extract_Nodes_and_Edges_Using_Llama2
 
 2. Install the required packages:
 pip install groq python-dotenv
